@@ -1269,3 +1269,8 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+.paperlist li{
+    margin-bottom: 12px;
+    font-size: 92%;
+}
