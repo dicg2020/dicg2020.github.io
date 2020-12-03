@@ -1272,7 +1272,7 @@ footer .credits a {
 
 .paperlist li{
     margin-bottom: 12px;
-    font-size: 92%;
+    font-size: 98%;
 }
 
 .session{
@@ -1281,4 +1281,39 @@ footer .credits a {
 
 .title{
     margin-left: 105px;
+}
+
+.title .author{
+    font-style: italic;
+    /* margin-left: 4px; */
+    margin-bottom: 0px;
+    font-size: 95%;
+}
+
+.title .author .aff{
+    color: #6666AA;
+    font-style: normal;
+    font-size: 95%;
+}
+
+.title details summary{
+    color: #0078ff;
+    font-size: 90%;
+}
+
+.title details p{
+    margin-left: 14px;
+}
+
+.title details p iframe{
+    margin-top: 10px;
+}
+
+.sessionhead{
+    font-style: bold;
+}
+
+.sessionhead a{
+    font-style: italic;
+    font-size: 85%;
 }
