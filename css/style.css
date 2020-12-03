@@ -1281,6 +1281,7 @@ footer .credits a {
 
 .title{
     margin-left: 105px;
+    font-size: 110%;
 }
 
 .title .author{
@@ -1303,6 +1304,7 @@ footer .credits a {
 
 .title details p{
     margin-left: 14px;
+    font-size: 90%;
 }
 
 .title details p iframe{
