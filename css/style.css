@@ -1292,10 +1292,11 @@ footer .credits a {
 }
 
 .title .author .aff{
-    color: #6666AA;
+    color: #007723;
     font-style: normal;
     font-size: 95%;
 }
+
 
 .title details summary{
     color: #0078ff;
@@ -1318,4 +1319,14 @@ footer .credits a {
 .sessionhead a{
     font-style: italic;
     font-size: 85%;
+}
+
+.chair{
+    list-style-type:none;
+    font-style: italic;
+}
+
+.chair aff{
+    color: #007723;
+    font-style: normal;    
 }
